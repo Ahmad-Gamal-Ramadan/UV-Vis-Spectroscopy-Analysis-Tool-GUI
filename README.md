@@ -1,4 +1,4 @@
-🔬 #UV-Vis Spectroscopy Analysis Tool
+🔬 UV-Vis Spectroscopy Analysis Tool
 📌 Overview
 
 A Python-based graphical user interface (GUI) application for analyzing UV–Vis spectroscopy data. The tool enables users to load experimental data, visualize spectra, and export high-quality plots for research purposes.
